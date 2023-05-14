@@ -52,7 +52,6 @@ header > p{
     font-size: 1.2em;
     max-width: 550px;
     margin: auto;
-    margin-bottom: 30px; /* para telas pequenas */
 }
 
 nav{
